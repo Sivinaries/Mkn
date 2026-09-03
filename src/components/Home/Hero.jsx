@@ -27,9 +27,9 @@ export default function Hero() {
           ref={videoRef}
           onPlay={() => setIsPlaying(true)}
           onPause={() => setIsPlaying(false)}
-          src="/videos/vid-hero-home.mp4"
+          src="/videos/profile-mkn-terbaru.mp4"
           autoPlay
-          muted
+          // muted
           loop
           playsInline
           preload="auto"

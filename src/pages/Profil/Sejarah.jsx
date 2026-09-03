@@ -32,17 +32,25 @@ export default function Sejarah() {
 
             <div className="lg:col-span-7 space-y-4 text-sm sm:text-base text-body leading-relaxed">
               <p>
-                Gerakan sadar hukum yang dicanangkan pemerintah sejak era Orde Baru semakin
-                berimplikasi positif. Masyarakat semakin teliti dan sadar betapa hukum menjadi aspek
-                penting dalam membangun relasi, terutama menyangkut hal-hal yang bersifat kerja
-                kolektif dan bersentuhan dengan kepentingan publik, transaksi yang terkait dengan hak
-                dan kewajiban.
+                Dinamika ekonomi global dan pesatnya iklim investasi menuntut adanya infrastruktur hukum
+                preventif dan responsif. Dalam ekosistem bisnis kontemporer, kepastian hukum bukan sekadar
+                pelengkap administratif, melainkan pilar utama untuk memitigasi risiko dan menjamin keabsahan
+                berbagai transaksi komersial maupun keperdataan. Kompleksitas ini secara langsung berimplikasi
+                pada eskalasi kebutuhan akan profesi Notaris dan Pejabat Pembuat Akta Tanah (PPAT) yang kompeten,
+                berintegritas, serta berwawasan luas. Di Indonesia, lonjakan pembangunan infrastruktur, dinamisnya
+                lalu lintas pertanahan, serta masifnya aksi korporasi membuka lanskap potensi karier yang sangat
+                prospektif dan strategis bagi profesi kenotariatan.
               </p>
               <p>
-                Oleh karena itu, kebutuhan akan SDM yang handal di bidang ilmu Kenotariatan, dengan
-                kualifikasi penguasaan pengetahuan teoretik dan keterampilan dalam pembuatan bermacam
-                perjanjian/kontrak dan akta semakin meningkat seiring dengan meningkatkan pemahaman
-                hukum masyarakat.
+                Menjawab semua kebutuhan tersebut, Fakultas Hukum Universitas Islam Sultan Agung mendirikan Program
+                Studi Magister Kenotariatan, dimana program ini didesain secara komprehensif, tidak sekadar untuk
+                mencetak praktisi yang andal dalam merumuskan akta autentik, tetapi juga untuk melahirkan intelektual
+                hukum yang unggul, berdaya saing internasional dan adaptif dalam mengimplementasikan ilmu pengetahuan serta
+                teknologi di bidang hukum kenotariatan yang dijiwai nilai-nilai etik profesi dan nilai-nilai akhlakul karimah.
+                Kehadiran program studi ini menjadi wujud nyata kontribusi Universitas Islam Sultan Agung dalam mengawal kebutuhan
+                pelaku bisnis, menegakan supremasi hukum, serta didedikasikan untuk membangun generasi khaira ummah yang berintegritas
+                tinggi melalui penerapan Budaya Akademik Islami (BudAI).
+
               </p>
             </div>
           </div>
@@ -63,11 +71,10 @@ export default function Sejarah() {
                 {/* Penanda titik pada garis */}
                 <span
                   aria-hidden="true"
-                  className={`absolute -left-[9px] top-2 rounded-full border-[3px] border-white ${
-                    item.highlight
-                      ? "w-4 h-4 bg-primary ring-4 ring-primary/15"
-                      : "w-3.5 h-3.5 bg-gray-300"
-                  }`}
+                  className={`absolute -left-[9px] top-2 rounded-full border-[3px] border-white ${item.highlight
+                    ? "w-4 h-4 bg-primary ring-4 ring-primary/15"
+                    : "w-3.5 h-3.5 bg-gray-300"
+                    }`}
                 />
 
                 <div className="font-heading font-bold text-xl sm:text-2xl text-primary leading-none tabular-nums">

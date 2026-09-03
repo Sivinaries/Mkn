@@ -26,19 +26,19 @@ export default function ProfilLulusan() {
             Profil Lulusan
           </h1>
           <div className="w-full h-[2px] bg-primary mt-4 mb-5" />
-          <p className="text-base text-body leading-relaxed max-w-5xl">
+          {/* <p className="text-base text-body leading-relaxed max-w-5xl">
             <RichText>{t(profilLulusanIntro)}</RichText>
-          </p>
+          </p> */}
         </div>
 
         {/* Section 1: Empat Profil Utama */}
         <div className="space-y-4">
-          <div>
+          {/* <div>
             <h2 className="text-xl sm:text-2xl font-heading font-medium text-heading tracking-normal">
               Empat Profil Utama
             </h2>
             <div className="w-full h-[1.5px] bg-heading mt-2.5" />
-          </div>
+          </div> */}
 
           <div className="grid grid-cols-1 md:grid-cols-2 border-t border-l border-gray-200 bg-white">
             {mainProfiles.map((item) => (

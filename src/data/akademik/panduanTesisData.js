@@ -97,17 +97,18 @@ export const tahapanBaris = [
     "Mahasiswa yang telah menyelesaikan kuliah Semester II mengajukan judul usulan Proposal Tesis kepada Ketua Program Studi c.q. Sekretaris Program Studi",
     "Judul disetujui Tim Penjamin Mutu Tesis",
   ],
-  [
+    [
     "2",
-    "Penetapan Pembimbing",
-    "Sekretaris Bidang Akademik menetapkan dosen pembimbing dan dimintakan persetujuan Ketua Program",
-    "Surat penetapan pembimbing",
-  ],
-  [
-    "3",
     "Ujian Pra Proposal",
     "Ujian berupa bimbingan atas kerangka berpikir proposal dan tesis",
     "Berita acara dan catatan perbaikan",
+  ],
+
+  [
+    "3",
+    "Penetapan Pembimbing",
+    "Sekretaris Bidang Akademik menetapkan dosen pembimbing dan dimintakan persetujuan Ketua Program",
+    "Surat penetapan pembimbing",
   ],
   [
     "4",
@@ -117,7 +118,7 @@ export const tahapanBaris = [
   ],
   [
     "5",
-    "Ujian Usulan Proposal",
+    "Ujian Proposal",
     "Diseminarkan di hadapan sekurang-kurangnya 3 orang penguji",
     "Berita acara dan nilai proposal",
   ],

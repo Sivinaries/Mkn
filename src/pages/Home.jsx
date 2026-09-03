@@ -38,9 +38,6 @@ export default function Home() {
         {/* Hero Section */}
         <Hero />
 
-        {/* Profil / Video Profil Section */}
-        <ProfilVideo />
-
         {/* Academic Focus / Berita & Wawasan Section */}
         <AcademicFocus />
 

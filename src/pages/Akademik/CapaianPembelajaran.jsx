@@ -31,12 +31,12 @@ export default function CapaianPembelajaran() {
             Capaian Pembelajaran Lulusan
           </h1>
           <div className="w-full h-[2px] bg-primary mt-4 mb-5" />
-          <p className="text-base text-body leading-relaxed max-w-5xl">
+          {/* <p className="text-base text-body leading-relaxed max-w-5xl">
             <RichText>{t(cplIntro)}</RichText>
-          </p>
+          </p> */}
 
           {/* Tiga deskriptor KKNI Level 8 */}
-          <ol className="mt-5 space-y-3 max-w-5xl list-none">
+          {/* <ol className="mt-5 space-y-3 max-w-5xl list-none">
             {kkniDescriptors.map((item, idx) => (
               <li key={idx} className="flex gap-4">
                 <span className="text-sm font-bold text-primary shrink-0 pt-0.5 tabular-nums">
@@ -47,7 +47,7 @@ export default function CapaianPembelajaran() {
                 </p>
               </li>
             ))}
-          </ol>
+          </ol> */}
         </div>
 
         {/* Stats Grid 4 Kolom */}
@@ -69,12 +69,12 @@ export default function CapaianPembelajaran() {
 
         {/* Tabel CPL dan Deskriptor KKNI */}
         <div className="space-y-4">
-          <div>
+          {/* <div>
             <h2 className="text-xl sm:text-2xl font-heading font-medium text-heading tracking-normal">
               Rumusan Capaian Pembelajaran Lulusan
             </h2>
             <div className="w-full h-[1.5px] bg-heading mt-2.5" />
-          </div>
+          </div> */}
 
           <div className="border border-gray-200 bg-white overflow-x-auto">
             <table className="w-full text-left border-collapse min-w-[720px]">

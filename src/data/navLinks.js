@@ -129,6 +129,15 @@ export const navLinks = [
       { title: "Alumni Survey Report", href: "/quality-assurance/alumni-survey-report" },
     ],
   },
+    {
+    title: "LAYANAN",
+    href: "/service",
+    children: [
+      { title: "Pengaduan & Bantuan", href: "/pengaduan-bantuan" },
+      { title: "Survei Kepuasan", href: "/survei-kepuasan" },
+    ],
+  },
+
   {
     title: "DOWNLOAD",
     href: "/download",
