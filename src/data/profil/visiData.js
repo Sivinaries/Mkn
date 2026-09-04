@@ -11,7 +11,7 @@
  */
 export const visi = {
   id:
-    "Menjadi Program Studi Magister Kenotariatan dengan reputasi ASIA, dengan dijiwai " +
-    "nilai-nilai Islam untuk menghasilkan generasi khaira ummah pada tahun 2025",
+    "Menyelenggarakan Program Studi yang menghasilkan lulusan unggul, berdaya saing  " +
+    "internasional dan mampu mengimplementasikan ilmu pengetahuan dan teknologi di bidang hukum kenotariatan untuk membangun generasi khaira ummah melalui Budaya Akademik Islami (BudaI).",
   en: "",
 };

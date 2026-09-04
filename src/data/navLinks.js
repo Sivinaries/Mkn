@@ -36,7 +36,6 @@ export const navLinks = [
             title: "Panduan Evaluasi Pembelajaran",
             href: "/akademik/pembelajaran/panduan-evaluasi",
           },
-          { title: "Asesmen", href: "/akademik/pembelajaran/asesmen" },
         ],
       },
       { title: "Panduan Akademik", href: "/akademik/panduan-akademik" },
@@ -71,6 +70,7 @@ export const navLinks = [
     title: "ALUMNI",
     href: "/alumni",
     children: [
+      { title: "Ikanotsula", href: "/alumni/ikanotsula" },
       { title: "Tracer Study", href: "/alumni/tracer-study" },
       { title: "Pusat Karir", href: "/alumni/pusat-karir" },
       { title: "Lowongan Pekerjaan", href: "/alumni/lowongan" },

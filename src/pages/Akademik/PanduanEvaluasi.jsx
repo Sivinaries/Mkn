@@ -53,24 +53,19 @@ export default function PanduanEvaluasi() {
             Panduan Evaluasi Pembelajaran
           </h1>
           <div className="w-full h-[2px] bg-primary mt-4 mb-5" />
-          <p className="text-base text-body leading-relaxed max-w-5xl">
-            Ketentuan pengukuran, analisis, dan tindak lanjut ketercapaian Capaian Pembelajaran
-            Lulusan pada Kurikulum OBE Tahun 2026, berlaku bagi seluruh mata kuliah teori, rumpun
-            Teknik Pembuatan Akta, Laboratorium Akta, mata kuliah pilihan, dan Tesis.
-          </p>
+         
         </div>
 
         <KartuSorot butir={sorotEvaluasi} />
 
         <section className="space-y-5">
-          <JudulSeksi judul="Enam Prinsip Penilaian" />
+          <JudulSeksi judul="Sifat Penilaian" />
           <KartuRingkas butir={prinsipPenilaian} kolom={3} />
         </section>
 
         <section className="space-y-5">
           <JudulSeksi
-            judul="Bobot Komponen Penilaian"
-            keterangan="Komponen dan bobot ditetapkan dalam Rencana Pembelajaran Semester masing-masing mata kuliah dengan mengacu pada pola berikut."
+            judul="Teknik dan Instrumental Penilaian Tiap Mata Kuliah"
           />
           <TabelPanduan kolom={bobotKolom} baris={bobotBaris} />
           <Klausul butir={bobotCatatan} />

@@ -23,40 +23,24 @@ export const sorotEvaluasi = [
 /** Pasal 3 — prinsip penilaian. */
 export const prinsipPenilaian = [
   {
-    tanda: "1",
-    judul: "Edukatif",
-    keterangan:
-      "Penilaian memotivasi mahasiswa memperbaiki cara belajar dan meraih capaian pembelajaran.",
+    "tanda": "1",
+    "judul": "Profesional dan Islami",
+    "keterangan": "Penilaian tidak hanya pada aspek kognitif, tetapi juga pada integritas moral dan etika profesi yang dijiwai oleh strategi Budaya Akademik Islami (BudAI)."
   },
   {
-    tanda: "2",
-    judul: "Otentik",
-    keterangan:
-      "Berorientasi pada proses dan hasil belajar yang mencerminkan kemampuan profesional Notaris/PPAT, terutama melalui unjuk kerja perancangan akta.",
+    "tanda": "2",
+    "judul": "Berorientasi pada Kemahiran Praktis",
+    "keterangan": "Mahasiswa dinilai dari kemampuannya memberikan solusi atas problem hukum di masyarakat, khususnya dalam bidang pertanahan dan kenotariatan."
   },
   {
-    tanda: "3",
-    judul: "Objektif",
-    keterangan:
-      "Didasarkan pada rubrik yang disepakati dan bebas dari pengaruh subjektivitas penilai.",
+    "tanda": "3",
+    "judul": "Integratif",
+    "keterangan": "Penilaian menggabungkan aspek akademik magister (Level 8 KKNI) dengan aspek keahlian profesi pejabat umum."
   },
   {
-    tanda: "4",
-    judul: "Akuntabel",
-    keterangan:
-      "Dilaksanakan sesuai prosedur dan kriteria yang jelas serta dapat ditelusuri sampai tingkat butir penilaian.",
-  },
-  {
-    tanda: "5",
-    judul: "Transparan",
-    keterangan:
-      "Prosedur dan kriteria penilaian dapat diakses mahasiswa sejak awal semester.",
-  },
-  {
-    tanda: "6",
-    judul: "Islami",
-    keterangan:
-      "Menjunjung kejujuran akademik dan integritas sebagai bagian dari strategi Budaya Akademik Islami (BudAI).",
+    "tanda": "4",
+    "judul": "Akuntabel dan Transparan",
+    "keterangan": "Dilakukan melalui sistem penjaminan mutu yang terukur untuk menjamin lulusan memiliki reputasi di tingkat nasional maupun internasional."
   },
 ];
 

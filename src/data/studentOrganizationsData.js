@@ -1,15 +1,15 @@
 export const studentOrganizationsData = [
   {
     id: 1,
-    slug: "himpunan-mahasiswa",
+    slug: "ikatan-mahasiswa",
     alternateSlugs: ["immk", "hmp-mkn"],
-    title: "Himpunan Mahasiswa Magister Kenotariatan",
-    shortName: "HMP MKn",
+    title: "Ikatan Mahasiswa Magister Kenotariatan Unissula",
+    shortName: "IMANU MKn",
     category: "ORGANISASI MAHASISWA",
     description:
       "Wadah resmi seluruh mahasiswa program studi. Pengurus dipilih melalui musyawarah anggota setiap tahun dan bertanggung jawab atas kegiatan akademik, penalaran, dan kesejahteraan mahasiswa selama satu periode kepengurusan.",
     image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
-    imageCaption: "Foto pengurus himpunan atau kegiatan musyawarah anggota",
+    imageCaption: "Foto pengurus ikatan atau kegiatan musyawarah anggota",
     meta: [
       { label: "Berdiri", value: "2008" },
       { label: "Periode berjalan", value: "2026 / 2027" },
@@ -17,12 +17,12 @@ export const studentOrganizationsData = [
       { label: "Sekretariat", value: "Gedung Pascasarjana Lt. 2" },
     ],
     narrative: [
-      "Himpunan berdiri pada 2008, dua tahun setelah program studi menerima angkatan pertamanya. Kebutuhannya sederhana: mahasiswa magister yang sebagian besar sudah bekerja memerlukan satu pintu untuk menyampaikan persoalan akademik kepada program studi, dan satu wadah untuk menyelenggarakan kegiatan di luar perkuliahan.",
+      "Ikatan berdiri pada 2008, dua tahun setelah program studi menerima angkatan pertamanya. Kebutuhannya sederhana: mahasiswa magister yang sebagian besar sudah bekerja memerlukan satu pintu untuk menyampaikan persoalan akademik kepada program studi, dan satu wadah untuk menyelenggarakan kegiatan di luar perkuliahan.",
       "Kepengurusan berjalan satu tahun dan dipilih melalui musyawarah anggota pada awal semester gasal. Ketua terpilih menyusun kabinet bersama empat koordinator bidang, kemudian mengajukan rencana kerja dan anggaran kepada Ketua Program Studi untuk disahkan.",
     ],
     quote: {
       text: "Sebagian besar anggota kami sudah bekerja. Kegiatan yang berhasil adalah yang menghormati waktu mereka.",
-      author: "Rangga Adiputra, Ketua Himpunan 2026/2027",
+      author: "Rangga Adiputra, Ketua Ikatan 2026/2027",
     },
     summary: [
       { number: "186", label: "Anggota terdaftar" },
@@ -32,13 +32,13 @@ export const studentOrganizationsData = [
     ],
     contact: {
       lines: [
-        "Sekretariat Himpunan",
+        "Sekretariat Ikatan",
         "Gedung Pascasarjana Lt. 2",
-        "hmp.mkn@unissula.ac.id",
-        "Instagram @hmpmkn.unissula",
+        "ikatan.mkn@unissula.ac.id",
+        "Instagram @ikatanmkn.unissula",
       ],
-      email: "hmp.mkn@unissula.ac.id",
-      instagram: "hmpmkn.unissula",
+      email: "ikatan.mkn@unissula.ac.id",
+      instagram: "ikatanmkn.unissula",
     },
     bidangKerja: [
       {
